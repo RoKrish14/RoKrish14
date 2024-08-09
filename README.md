@@ -11,7 +11,7 @@
 
 ### 🏅 Badges
 
-[<img src="https://github.com/RoKrish14/RoKrish14/blob/main/EFCommitter.png" alt="eclipse-foundation-committer-badge" width="150"/>](https://www.credly.com/badges/ffa2cdbe-5fd1-4004-a1a0-20df7756c9aa/linked_in?t=sbzjkf)
+[<img src="https://github.com/RoKrish14/RoKrish14/blob/main/EFCommitter.png" alt="eclipse-foundation-committer-badge" width="100"/>](https://www.credly.com/badges/ffa2cdbe-5fd1-4004-a1a0-20df7756c9aa/linked_in?t=sbzjkf)
 
 ### 🤝🏻 Get in touch:
 
